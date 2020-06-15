@@ -1,0 +1,28 @@
+
+Vcom.management.UserMS.controller.BuyerController#buyerWishlistItems(I)Ljava/util/List;z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javai i(,"1*è
+1z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaj! j(-ˇ
+¸
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaj! j(-0
+%0*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerService¨©
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaj! j(@
+%1java.util.List"Mcom.management.UserMS.service.BuyerService#getWishlistItems()Ljava/util/List;*2
+0
+%0*com.management.UserMS.service.BuyerService2getWishlistItems()º
+π
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaj j(A
+wishlistDTOjava.util.List"__id*
+
+%1java.util.List"ù
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javak k(
+
+wishlistDTOjava.util.List:
+""B42
+0com.management.UserMS.controller.BuyerController

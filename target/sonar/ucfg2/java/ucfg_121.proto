@@ -1,0 +1,62 @@
+
+}com.management.UserMS.dto.WishlistDTO#valueOf(Lcom/management/UserMS/entity/Wishlist;)Lcom/management/UserMS/dto/WishlistDTO;o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java# #(""1*º
+1o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(+»≈
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %()+
+%0%com.management.UserMS.dto.WishlistDTO"%com.management.UserMS.dto.WishlistDTO⁄
+◊
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(+
+%1"/com.management.UserMS.dto.WishlistDTO#<init>()V*-
++
+%0%com.management.UserMS.dto.WishlistDTOﬂ
+‹
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(,4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO"__id*-
++
+%0%com.management.UserMS.dto.WishlistDTOπ∂
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(-)
+%2#com.management.UserMS.entity.CartId"Vcom.management.UserMS.entity.Wishlist#getCartId()Lcom/management/UserMS/entity/CartId;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getCartId()çä
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(:
+%3java.lang.Integer"Ccom.management.UserMS.entity.CartId#getBuyerId()Ljava/lang/Integer;*+
+)
+%2#com.management.UserMS.entity.CartId2getBuyerId()ºπ
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(;
+
+%4void"Fcom.management.UserMS.dto.WishlistDTO#setBuyerid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%3java.lang.Integer2setBuyerid(Ljava/lang/Integer;)π∂
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(,)
+%5#com.management.UserMS.entity.CartId"Vcom.management.UserMS.entity.Wishlist#getCartId()Lcom/management/UserMS/entity/CartId;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getCartId()ãà
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(8
+%6java.lang.Integer"Bcom.management.UserMS.entity.CartId#getProdId()Ljava/lang/Integer;*+
+)
+%5#com.management.UserMS.entity.CartId2getProdId()∫∑
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(9
+
+%7void"Ecom.management.UserMS.dto.WishlistDTO#setProdid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%6java.lang.Integer2setProdid(Ljava/lang/Integer;)"©
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java) )(6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO:1
+wishlist%com.management.UserMS.entity.WishlistB)"'
+%com.management.UserMS.dto.WishlistDTO

@@ -1,0 +1,55 @@
+
+xcom.management.UserMS.controller.BuyerController#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)Ljava/lang/String;z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaD D("startingBlock*Þ
+startingBlockz
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaD D(>ü
+ù
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaC C(U
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTOü
+ù
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaD D(+
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTOÍ
+Ê
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaD5 D(=.
+buyerDTO"com.management.UserMS.dto.BuyerDTO"__annotation*
+
+%4*
+
+%5*
+4*”
+4z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F(ÿ
+ü
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F(0
+%0*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerService‹ˆ
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F(*
+
+%1void"acom.management.UserMS.service.BuyerService#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)V*2
+0
+%0*com.management.UserMS.service.BuyerService*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO25deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)*
+1*—
+1z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaJ
+ J("•
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaJ J( 
+Account Deactivated:.
+buyerDTO"com.management.UserMS.dto.BuyerDTOB42
+0com.management.UserMS.controller.BuyerController

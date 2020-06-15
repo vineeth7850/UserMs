@@ -1,0 +1,54 @@
+
+{com.management.UserMS.controller.SellerController#deactivateSeller(Lcom/management/UserMS/dto/SellerDTO;)Ljava/lang/String;{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java< <("startingBlock*
+2{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java? ?("
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java? ?(
+
+Successful*è
+startingBlock{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java< <(Aÿ
+ü
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java; ;(V
+%2"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*2
+0
+	sellerDTO#com.management.UserMS.dto.SellerDTOÿ
+ü
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java<  <(,
+%3"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*2
+0
+	sellerDTO#com.management.UserMS.dto.SellerDTOÐ
+Í
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java<7 <(@0
+	sellerDTO#com.management.UserMS.dto.SellerDTO"__annotation*
+
+%2*
+
+%3*
+3*¥
+3{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java> >(ƒ
+€
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java> >(1
+%0+com.management.UserMS.service.SellerService"__id*H*F3
+1com.management.UserMS.controller.SellerController"
+sellerService—”
+{
+qC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/SellerController.java> >(-
+%1boolean"dcom.management.UserMS.service.SellerService#deactivateSeller(Lcom/management/UserMS/dto/SellerDTO;)Z*3
+1
+%0+com.management.UserMS.service.SellerService*2
+0
+	sellerDTO#com.management.UserMS.dto.SellerDTO27deactivateSeller(Lcom/management/UserMS/dto/SellerDTO;)*
+2:0
+	sellerDTO#com.management.UserMS.dto.SellerDTOB53
+1com.management.UserMS.controller.SellerController

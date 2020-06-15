@@ -1,0 +1,18 @@
+
+Lcom.management.UserMS.service.SellerService#isValidName(Ljava/lang/String;)Zu
+kC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/SellerService.javaW W("1*¸
+1u
+kC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/SellerService.javaY	 Y(º
+·
+u
+kC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/SellerService.javaY	 Y(F
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*(&
+$^[a-zA-Z]+[-a-zA-Z\\s]+([-a-zA-Z]+)$*
+
+namejava.lang.String"
+u
+kC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/SellerService.javaY Y(G
+"":
+namejava.lang.StringB/-
++com.management.UserMS.service.SellerService

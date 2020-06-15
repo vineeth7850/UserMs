@@ -1,0 +1,96 @@
+
+Wcom.management.UserMS.dto.SellerDTO#createEntity()Lcom/management/UserMS/entity/Seller;m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.java? ?("1*÷!
+1m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.java@ @(¬ø
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.java@ @()
+%0#com.management.UserMS.entity.Seller"#com.management.UserMS.entity.Seller‘
+—
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.java@ @(
+%1"-com.management.UserMS.entity.Seller#<init>()V*+
+)
+%0#com.management.UserMS.entity.Seller–
+Õ
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.java@ @()
+se#com.management.UserMS.entity.Seller"__id*+
+)
+%0#com.management.UserMS.entity.SellerâÜ
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaA A(#
+%2java.lang.Integer"Dcom.management.UserMS.dto.SellerDTO#getSellerId()Ljava/lang/Integer;*'%
+#com.management.UserMS.dto.SellerDTO2getSellerId()Ø¨
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaA A($
+
+%3void"Ecom.management.UserMS.entity.Seller#setSellerId(Ljava/lang/Integer;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%2java.lang.Integer2 setSellerId(Ljava/lang/Integer;)ˇ¸
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaB B(
+%4java.lang.String"?com.management.UserMS.dto.SellerDTO#getName()Ljava/lang/String;*'%
+#com.management.UserMS.dto.SellerDTO2	getName()§°
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaB B(
+
+%5void"@com.management.UserMS.entity.Seller#setName(Ljava/lang/String;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%4java.lang.String2setName(Ljava/lang/String;)Å˛
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaC C(
+%6java.lang.String"@com.management.UserMS.dto.SellerDTO#getEmail()Ljava/lang/String;*'%
+#com.management.UserMS.dto.SellerDTO2
+getEmail()¶£
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaC C(
+
+%7void"Acom.management.UserMS.entity.Seller#setEmail(Ljava/lang/String;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)çä
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaD D()
+%8java.lang.String"Fcom.management.UserMS.dto.SellerDTO#getPhoneNumber()Ljava/lang/String;*'%
+#com.management.UserMS.dto.SellerDTO2getPhoneNumber()≤Ø
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaD D(*
+
+%9void"Gcom.management.UserMS.entity.Seller#setPhoneNumber(Ljava/lang/String;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%8java.lang.String2"setPhoneNumber(Ljava/lang/String;)àÖ
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaE E(#
+%10java.lang.String"Ccom.management.UserMS.dto.SellerDTO#getPassword()Ljava/lang/String;*'%
+#com.management.UserMS.dto.SellerDTO2getPassword()Æ´
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaE E($
+%11void"Dcom.management.UserMS.entity.Seller#setPassword(Ljava/lang/String;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)äá
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaF F(#
+%12java.lang.Boolean"Dcom.management.UserMS.dto.SellerDTO#getIsActive()Ljava/lang/Boolean;*'%
+#com.management.UserMS.dto.SellerDTO2getIsActive()±Æ
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaF F($
+%13void"Ecom.management.UserMS.entity.Seller#setIsActive(Ljava/lang/Boolean;)V*+
+)
+se#com.management.UserMS.entity.Seller*
+
+%12java.lang.Boolean2 setIsActive(Ljava/lang/Boolean;)"ú
+m
+cC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/SellerDTO.javaG G(+
+)
+se#com.management.UserMS.entity.SellerB'%
+#com.management.UserMS.dto.SellerDTO

@@ -1,0 +1,104 @@
+
+lcom.management.UserMS.controller.BuyerController#addProductToWishlist(Ljava/lang/Integer;)Ljava/lang/String;z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javan n($"7*â
+2z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javat	 t("á
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javat t(	
+Added*É
+3z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(~Á
+‰
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(~2
+
+productDTO$com.management.UserMS.dto.ProductDTO"__id*,
+*
+%8$com.management.UserMS.dto.ProductDTOˇ
+¸
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javas s(0
+%9*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerServiceêç
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javas s((
+%10void"acom.management.UserMS.service.BuyerService#addToWishlist(Lcom/management/UserMS/dto/ProductDTO;)V*2
+0
+%9*com.management.UserMS.service.BuyerService*4
+2
+
+productDTO$com.management.UserMS.dto.ProductDTO25addToWishlist(Lcom/management/UserMS/dto/ProductDTO;)*
+2*Ö
+4z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar: r(L—
+Œ
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar: r(c
+%6java.lang.String"__concat*
+http://PRODUCTMS*
+/products/productid/⁄
+◊
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar: r(j
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+
+prodidjava.lang.IntegerÕ 
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(}*
+%8$com.management.UserMS.dto.ProductDTO"Çorg.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%4+org.springframework.web.client.RestTemplate*
+
+%7java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)*
+3*⁄
+5z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(,ﬂ‹
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(*1
+%4+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplateÒ
+Ó
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javar r(,
+%5"5org.springframework.web.client.RestTemplate#<init>()V*3
+1
+%4+org.springframework.web.client.RestTemplate*
+4*æ
+6z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaq q(ﬂ
+‹
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaq q(
+%2org.slf4j.Logger"__id*@*>2
+0com.management.UserMS.controller.BuyerController"
+logger’“
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaq q(9
+
+%3void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%2org.slf4j.Logger*%#
+!ADD product to wishlist request{}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)*
+5*∂
+7z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javap p(®
+•
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javap p(
+%0java.io.PrintStream"__id*
+""ÑÅ
+z
+pC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javap p(
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*	
+hellooo2println(Ljava/lang/String;)*
+6:
+prodidjava.lang.IntegerB42
+0com.management.UserMS.controller.BuyerController

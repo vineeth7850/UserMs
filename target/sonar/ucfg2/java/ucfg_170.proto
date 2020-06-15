@@ -1,0 +1,44 @@
+
+;com.management.UserMS.service.BuyerService#IsPrivileged(I)Zv
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java   ("3*þ
+2v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¦
+ ¦("€
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¦ ¦(
+""*à	
+3v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¢ ¢(ø
+õ
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¢ ¢(6
+%00com.management.UserMS.repository.BuyerRepository"__id*=*;,
+*com.management.UserMS.service.BuyerService"
+	buyerRepoàÝ
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¢ ¢(/(
+%1"com.management.UserMS.entity.Buyer"ecom.management.UserMS.repository.BuyerRepository#findByBuyerId(I)Lcom/management/UserMS/entity/Buyer;*8
+6
+%00com.management.UserMS.repository.BuyerRepository*
+""2findByBuyerId(I)Ú
+×
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¢ ¢(0+
+buyer"com.management.UserMS.entity.Buyer"__id**
+(
+%1"com.management.UserMS.entity.BuyerŸœ
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java¤ ¤(
+%2java.lang.Boolean"Gcom.management.UserMS.entity.Buyer#getIsPrivileged()Ljava/lang/Boolean;*-
++
+buyer"com.management.UserMS.entity.Buyer2getIsPrivileged()*
+2
+1*þ
+1v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaª
+ ª("€
+v
+jC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaª ª(
+"":
+""B.,
+*com.management.UserMS.service.BuyerService

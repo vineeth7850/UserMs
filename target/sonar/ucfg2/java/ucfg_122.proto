@@ -1,0 +1,51 @@
+
+Bcom.management.UserMS.dto.WishlistDTO#toString()Ljava/lang/String;o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java- -("1*´
+1o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.	 .( Ë
+È
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java." .()
+%0java.lang.Integer"__id*6*4'
+%com.management.UserMS.dto.WishlistDTO"	
+buyeridÌ
+É
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.	 .()
+%1java.lang.String"__concat*
+WishlistDTO [BuyerId=*
+
+%0java.lang.Integer½
+º
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.	 .(5
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+ProdId=Ê
+Ç
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.7 .(=
+%3java.lang.Integer"__id*5*3'
+%com.management.UserMS.dto.WishlistDTO"
+prodidË
+È
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.	 .(=
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Integer·
+´
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java.	 .(A
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"‹
+o
+eC:/Users/raju suvarna/Downloads/final/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java. .(B
+
+%5java.lang.StringB)'
+%com.management.UserMS.dto.WishlistDTO
